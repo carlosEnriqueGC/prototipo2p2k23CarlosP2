@@ -1,0 +1,17 @@
+[OPTIONS]
+Compatibility=1.1 or later
+Compiled file=Ayudas.chm
+Contents file=AyudaA.hhc
+Default Window=Ayuda
+Display compile progress=No
+Language=0x100a Español (Guatemala)
+
+[WINDOWS]
+Ayuda="Practica P2","AyudaA.hhc",,"MDI.html","MDI.html",,,,,0x23520,,0x387e,,,,,,,,0
+
+
+[FILES]
+MDI.html
+
+[INFOTYPES]
+

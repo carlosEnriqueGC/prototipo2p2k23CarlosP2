@@ -1,0 +1,85 @@
+C:\Users\PC\source\repos\Proyecto3\CapaControlador\bin\Debug\CapaControlador.dll
+C:\Users\PC\source\repos\Proyecto3\CapaControlador\bin\Debug\CapaControlador.pdb
+C:\Users\PC\source\repos\Proyecto3\CapaControlador\obj\Debug\CapaControlador.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Proyecto3\CapaControlador\obj\Debug\CapaControlador.dll
+C:\Users\PC\source\repos\Proyecto3\CapaControlador\obj\Debug\CapaControlador.pdb
+C:\Users\PC\source\repos\Proyecto3\CapaControlador\bin\Debug\CapaModelo.dll
+C:\Users\PC\source\repos\Proyecto3\CapaControlador\bin\Debug\CapaModelo.pdb
+C:\Users\PC\source\repos\Proyecto3\CapaControlador\obj\Debug\CapaControlador.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\Proyecto3\CapaControlador\obj\Debug\CapaControlador.csproj.CopyComplete
+C:\Users\PC\Desktop\SEGURIDADGITHUB\proyectoads22023\Codigo\Componentes\Seguridad\Modulo_Seguridad\CapaControlador\bin\Debug\CapaControlador.dll
+C:\Users\PC\Desktop\SEGURIDADGITHUB\proyectoads22023\Codigo\Componentes\Seguridad\Modulo_Seguridad\CapaControlador\bin\Debug\CapaControlador.pdb
+C:\Users\PC\Desktop\SEGURIDADGITHUB\proyectoads22023\Codigo\Componentes\Seguridad\Modulo_Seguridad\CapaControlador\bin\Debug\CapaModelo.dll
+C:\Users\PC\Desktop\SEGURIDADGITHUB\proyectoads22023\Codigo\Componentes\Seguridad\Modulo_Seguridad\CapaControlador\bin\Debug\CapaModelo.pdb
+C:\Users\PC\Desktop\SEGURIDADGITHUB\proyectoads22023\Codigo\Componentes\Seguridad\Modulo_Seguridad\CapaControlador\obj\Debug\CapaControlador.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\SEGURIDADGITHUB\proyectoads22023\Codigo\Componentes\Seguridad\Modulo_Seguridad\CapaControlador\obj\Debug\CapaControlador.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\SEGURIDADGITHUB\proyectoads22023\Codigo\Componentes\Seguridad\Modulo_Seguridad\CapaControlador\obj\Debug\CapaControlador.csproj.CopyComplete
+C:\Users\PC\Desktop\SEGURIDADGITHUB\proyectoads22023\Codigo\Componentes\Seguridad\Modulo_Seguridad\CapaControlador\obj\Debug\CapaControlador.dll
+C:\Users\PC\Desktop\SEGURIDADGITHUB\proyectoads22023\Codigo\Componentes\Seguridad\Modulo_Seguridad\CapaControlador\obj\Debug\CapaControlador.pdb
+D:\Semestre 2 2023\analisis de sistemas 2\Proyectos GIT\proyectoads22023CarlosN\Codigo\Componentes\Seguridad\Modulo_Seguridad\CapaControlador\obj\Debug\CapaControlador.csproj.AssemblyReference.cache
+D:\Semestre 2 2023\analisis de sistemas 2\Proyectos GIT\proyectoads22023CarlosN\Codigo\Componentes\Seguridad\Modulo_Seguridad\CapaControlador\obj\Debug\CapaControlador.csproj.CoreCompileInputs.cache
+D:\Semestre 2 2023\analisis de sistemas 2\Proyectos GIT\proyectoads22023CarlosN\Codigo\Componentes\Seguridad\Modulo_Seguridad\CapaControlador\obj\Debug\CapaControlador.dll
+D:\Semestre 2 2023\analisis de sistemas 2\Proyectos GIT\proyectoads22023CarlosN\Codigo\Componentes\Seguridad\Modulo_Seguridad\CapaControlador\obj\Debug\CapaControlador.pdb
+C:\Users\rayju\OneDrive\Escritorio\GitHub Works\proyectoads22023\Codigo\Componentes\Seguridad\Modulo_Seguridad\CapaControlador\obj\Debug\CapaControlador.csproj.AssemblyReference.cache
+C:\Users\rayju\OneDrive\Escritorio\GitHub Works\proyectoads22023\Codigo\Componentes\Seguridad\Modulo_Seguridad\CapaControlador\obj\Debug\CapaControlador.csproj.CoreCompileInputs.cache
+C:\Users\rayju\OneDrive\Escritorio\GitHub Works\proyectoads22023\Codigo\Componentes\Seguridad\Modulo_Seguridad\CapaControlador\obj\Debug\CapaControlador.dll
+C:\Users\rayju\OneDrive\Escritorio\GitHub Works\proyectoads22023\Codigo\Componentes\Seguridad\Modulo_Seguridad\CapaControlador\obj\Debug\CapaControlador.pdb
+C:\Users\rayju\OneDrive\Escritorio\GitHub Works\proyectoads22023\Codigo\Componentes\Seguridad\Modulo_Seguridad\CapaControlador\bin\Debug\CapaControlador.dll
+C:\Users\rayju\OneDrive\Escritorio\GitHub Works\proyectoads22023\Codigo\Componentes\Seguridad\Modulo_Seguridad\CapaControlador\bin\Debug\CapaControlador.pdb
+C:\Users\rayju\OneDrive\Escritorio\GitHub Works\proyectoads22023\Codigo\Componentes\Seguridad\Modulo_Seguridad\CapaControlador\bin\Debug\CapaModelo.dll
+C:\Users\rayju\OneDrive\Escritorio\GitHub Works\proyectoads22023\Codigo\Componentes\Seguridad\Modulo_Seguridad\CapaControlador\bin\Debug\CapaModelo.pdb
+C:\Users\rayju\OneDrive\Escritorio\GitHub Works\proyectoads22023\Codigo\Componentes\Seguridad\Modulo_Seguridad\CapaControlador\obj\Debug\CapaControlador.csproj.CopyComplete
+C:\Users\PC\Desktop\SEGURIDAD QUIZA CON ERRORES\proyectoads22023\Codigo\Componentes\Seguridad\Modulo_Seguridad\CapaControlador\obj\Debug\CapaControlador.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\SEGURIDAD QUIZA CON ERRORES\proyectoads22023\Codigo\Componentes\Seguridad\Modulo_Seguridad\CapaControlador\obj\Debug\CapaControlador.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\SEGURIDAD QUIZA CON ERRORES\proyectoads22023\Codigo\Componentes\Seguridad\Modulo_Seguridad\CapaControlador\obj\Debug\CapaControlador.dll
+C:\Users\PC\Desktop\SEGURIDAD QUIZA CON ERRORES\proyectoads22023\Codigo\Componentes\Seguridad\Modulo_Seguridad\CapaControlador\obj\Debug\CapaControlador.pdb
+C:\Users\PC\Desktop\SEGURIDAD QUIZA CON ERRORES\proyectoads22023\Codigo\Componentes\Seguridad\Modulo_Seguridad\CapaControlador\bin\Debug\CapaControlador.dll
+C:\Users\PC\Desktop\SEGURIDAD QUIZA CON ERRORES\proyectoads22023\Codigo\Componentes\Seguridad\Modulo_Seguridad\CapaControlador\bin\Debug\CapaControlador.pdb
+C:\Users\PC\Desktop\SEGURIDAD QUIZA CON ERRORES\proyectoads22023\Codigo\Componentes\Seguridad\Modulo_Seguridad\CapaControlador\bin\Debug\CapaModelo.dll
+C:\Users\PC\Desktop\SEGURIDAD QUIZA CON ERRORES\proyectoads22023\Codigo\Componentes\Seguridad\Modulo_Seguridad\CapaControlador\bin\Debug\CapaModelo.pdb
+C:\Users\PC\Desktop\SEGURIDAD QUIZA CON ERRORES\proyectoads22023\Codigo\Componentes\Seguridad\Modulo_Seguridad\CapaControlador\obj\Debug\CapaControlador.csproj.CopyComplete
+C:\Users\Erick\Desktop\Escritorio\Uni\Analisis de sistemas 2\Git\proyectoads22023\Codigo\Componentes\Seguridad\Modulo_Seguridad\CapaControlador\bin\Debug\CapaControlador.dll
+C:\Users\Erick\Desktop\Escritorio\Uni\Analisis de sistemas 2\Git\proyectoads22023\Codigo\Componentes\Seguridad\Modulo_Seguridad\CapaControlador\bin\Debug\CapaControlador.pdb
+C:\Users\Erick\Desktop\Escritorio\Uni\Analisis de sistemas 2\Git\proyectoads22023\Codigo\Componentes\Seguridad\Modulo_Seguridad\CapaControlador\bin\Debug\CapaModelo.dll
+C:\Users\Erick\Desktop\Escritorio\Uni\Analisis de sistemas 2\Git\proyectoads22023\Codigo\Componentes\Seguridad\Modulo_Seguridad\CapaControlador\bin\Debug\CapaModelo.pdb
+C:\Users\Erick\Desktop\Escritorio\Uni\Analisis de sistemas 2\Git\proyectoads22023\Codigo\Componentes\Seguridad\Modulo_Seguridad\CapaControlador\obj\Debug\CapaControlador.csproj.AssemblyReference.cache
+C:\Users\Erick\Desktop\Escritorio\Uni\Analisis de sistemas 2\Git\proyectoads22023\Codigo\Componentes\Seguridad\Modulo_Seguridad\CapaControlador\obj\Debug\CapaControlador.csproj.CoreCompileInputs.cache
+C:\Users\Erick\Desktop\Escritorio\Uni\Analisis de sistemas 2\Git\proyectoads22023\Codigo\Componentes\Seguridad\Modulo_Seguridad\CapaControlador\obj\Debug\CapaControlador.csproj.CopyComplete
+C:\Users\Erick\Desktop\Escritorio\Uni\Analisis de sistemas 2\Git\proyectoads22023\Codigo\Componentes\Seguridad\Modulo_Seguridad\CapaControlador\obj\Debug\CapaControlador.dll
+C:\Users\Erick\Desktop\Escritorio\Uni\Analisis de sistemas 2\Git\proyectoads22023\Codigo\Componentes\Seguridad\Modulo_Seguridad\CapaControlador\obj\Debug\CapaControlador.pdb
+C:\Users\rayju\OneDrive\Escritorio\GitHub AnotherWork\proyectoads22023\Codigo\Componentes\Seguridad\Modulo_Seguridad\CapaControlador\bin\Debug\CapaControlador.dll
+C:\Users\rayju\OneDrive\Escritorio\GitHub AnotherWork\proyectoads22023\Codigo\Componentes\Seguridad\Modulo_Seguridad\CapaControlador\bin\Debug\CapaControlador.pdb
+C:\Users\rayju\OneDrive\Escritorio\GitHub AnotherWork\proyectoads22023\Codigo\Componentes\Seguridad\Modulo_Seguridad\CapaControlador\bin\Debug\CapaModelo.dll
+C:\Users\rayju\OneDrive\Escritorio\GitHub AnotherWork\proyectoads22023\Codigo\Componentes\Seguridad\Modulo_Seguridad\CapaControlador\bin\Debug\CapaModelo.pdb
+C:\Users\rayju\OneDrive\Escritorio\GitHub AnotherWork\proyectoads22023\Codigo\Componentes\Seguridad\Modulo_Seguridad\CapaControlador\obj\Debug\CapaControlador.csproj.AssemblyReference.cache
+C:\Users\rayju\OneDrive\Escritorio\GitHub AnotherWork\proyectoads22023\Codigo\Componentes\Seguridad\Modulo_Seguridad\CapaControlador\obj\Debug\CapaControlador.csproj.CoreCompileInputs.cache
+C:\Users\rayju\OneDrive\Escritorio\GitHub AnotherWork\proyectoads22023\Codigo\Componentes\Seguridad\Modulo_Seguridad\CapaControlador\obj\Debug\CapaControlador.csproj.CopyComplete
+C:\Users\rayju\OneDrive\Escritorio\GitHub AnotherWork\proyectoads22023\Codigo\Componentes\Seguridad\Modulo_Seguridad\CapaControlador\obj\Debug\CapaControlador.dll
+C:\Users\rayju\OneDrive\Escritorio\GitHub AnotherWork\proyectoads22023\Codigo\Componentes\Seguridad\Modulo_Seguridad\CapaControlador\obj\Debug\CapaControlador.pdb
+C:\Users\gazhp\source\repos\proyectoads22023\Codigo\Componentes\Seguridad\Modulo_Seguridad\CapaControlador\bin\Debug\CapaControlador.dll
+C:\Users\gazhp\source\repos\proyectoads22023\Codigo\Componentes\Seguridad\Modulo_Seguridad\CapaControlador\bin\Debug\CapaControlador.pdb
+C:\Users\gazhp\source\repos\proyectoads22023\Codigo\Componentes\Seguridad\Modulo_Seguridad\CapaControlador\bin\Debug\CapaModelo.dll
+C:\Users\gazhp\source\repos\proyectoads22023\Codigo\Componentes\Seguridad\Modulo_Seguridad\CapaControlador\bin\Debug\CapaModelo.pdb
+C:\Users\gazhp\source\repos\proyectoads22023\Codigo\Componentes\Seguridad\Modulo_Seguridad\CapaControlador\obj\Debug\CapaControlador.csproj.AssemblyReference.cache
+C:\Users\gazhp\source\repos\proyectoads22023\Codigo\Componentes\Seguridad\Modulo_Seguridad\CapaControlador\obj\Debug\CapaControlador.csproj.CoreCompileInputs.cache
+C:\Users\gazhp\source\repos\proyectoads22023\Codigo\Componentes\Seguridad\Modulo_Seguridad\CapaControlador\obj\Debug\CapaControlador.csproj.CopyComplete
+C:\Users\gazhp\source\repos\proyectoads22023\Codigo\Componentes\Seguridad\Modulo_Seguridad\CapaControlador\obj\Debug\CapaControlador.dll
+C:\Users\gazhp\source\repos\proyectoads22023\Codigo\Componentes\Seguridad\Modulo_Seguridad\CapaControlador\obj\Debug\CapaControlador.pdb
+D:\Semestre 2 2023\analisis de sistemas 2\Practica P2\PROYECTO P2 PRACTICA\Modulo_Seguridad\CapaControlador\bin\Debug\CapaControlador.dll
+D:\Semestre 2 2023\analisis de sistemas 2\Practica P2\PROYECTO P2 PRACTICA\Modulo_Seguridad\CapaControlador\bin\Debug\CapaControlador.pdb
+D:\Semestre 2 2023\analisis de sistemas 2\Practica P2\PROYECTO P2 PRACTICA\Modulo_Seguridad\CapaControlador\bin\Debug\CapaModelo.dll
+D:\Semestre 2 2023\analisis de sistemas 2\Practica P2\PROYECTO P2 PRACTICA\Modulo_Seguridad\CapaControlador\bin\Debug\CapaModelo.pdb
+D:\Semestre 2 2023\analisis de sistemas 2\Practica P2\PROYECTO P2 PRACTICA\Modulo_Seguridad\CapaControlador\obj\Debug\CapaControlador.csproj.CoreCompileInputs.cache
+D:\Semestre 2 2023\analisis de sistemas 2\Practica P2\PROYECTO P2 PRACTICA\Modulo_Seguridad\CapaControlador\obj\Debug\CapaControlador.csproj.CopyComplete
+D:\Semestre 2 2023\analisis de sistemas 2\Practica P2\PROYECTO P2 PRACTICA\Modulo_Seguridad\CapaControlador\obj\Debug\CapaControlador.dll
+D:\Semestre 2 2023\analisis de sistemas 2\Practica P2\PROYECTO P2 PRACTICA\Modulo_Seguridad\CapaControlador\obj\Debug\CapaControlador.pdb
+D:\Semestre 2 2023\analisis de sistemas 2\Practica P2\PROYECTO P2 PRACTICA\Modulo_Seguridad\CapaControlador\obj\Debug\CapaControlador.csproj.AssemblyReference.cache
+D:\Semestre 2 2023\analisis de sistemas 2\EXAMEN P2\GIT\prototipo2p2k23CarlosP2\Codigo\Parcial 2\CapaControlador\bin\Debug\CapaControlador.dll
+D:\Semestre 2 2023\analisis de sistemas 2\EXAMEN P2\GIT\prototipo2p2k23CarlosP2\Codigo\Parcial 2\CapaControlador\bin\Debug\CapaControlador.pdb
+D:\Semestre 2 2023\analisis de sistemas 2\EXAMEN P2\GIT\prototipo2p2k23CarlosP2\Codigo\Parcial 2\CapaControlador\bin\Debug\CapaModelo.dll
+D:\Semestre 2 2023\analisis de sistemas 2\EXAMEN P2\GIT\prototipo2p2k23CarlosP2\Codigo\Parcial 2\CapaControlador\bin\Debug\CapaModelo.pdb
+D:\Semestre 2 2023\analisis de sistemas 2\EXAMEN P2\GIT\prototipo2p2k23CarlosP2\Codigo\Parcial 2\CapaControlador\obj\Debug\CapaControlador.csproj.AssemblyReference.cache
+D:\Semestre 2 2023\analisis de sistemas 2\EXAMEN P2\GIT\prototipo2p2k23CarlosP2\Codigo\Parcial 2\CapaControlador\obj\Debug\CapaControlador.csproj.CoreCompileInputs.cache
+D:\Semestre 2 2023\analisis de sistemas 2\EXAMEN P2\GIT\prototipo2p2k23CarlosP2\Codigo\Parcial 2\CapaControlador\obj\Debug\CapaControlador.csproj.CopyComplete
+D:\Semestre 2 2023\analisis de sistemas 2\EXAMEN P2\GIT\prototipo2p2k23CarlosP2\Codigo\Parcial 2\CapaControlador\obj\Debug\CapaControlador.dll
+D:\Semestre 2 2023\analisis de sistemas 2\EXAMEN P2\GIT\prototipo2p2k23CarlosP2\Codigo\Parcial 2\CapaControlador\obj\Debug\CapaControlador.pdb
